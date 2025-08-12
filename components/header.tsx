@@ -80,7 +80,7 @@ export default function Header() {
       {/* Mobile menu button and search */}
       <div className="lg:hidden flex justify-between items-center px-4 py-3 bg-white">
         <Link href="/" className="font-bold text-xl text-primary">
-          Business Services
+          Bharat Comply
         </Link>
         <div className="flex items-center space-x-2">
           <button onClick={toggleMobileSearch} className="text-gray-700 hover:text-primary focus:outline-none p-2">
