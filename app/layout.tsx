@@ -16,10 +16,10 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Business Services - Company Registration, Tax Filing & More",
+  title: "Bharat-complance- Company Registration, Tax Filing & More",
   description: "Professional business services including company registration, tax filing, compliance, and more.",
-  metadataBase: new URL("https://businessservices.com"),
-    generator: 'v0.dev'
+  metadataBase: new URL("https://bharat-complance.com"),
+   
 }
 
 export default function RootLayout({
