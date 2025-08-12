@@ -16,37 +16,37 @@ export default function TestimonialsSection() {
     text: "The team made my company registration process incredibly smooth. Their expertise and guidance were invaluable, and they handled all the paperwork efficiently.",
     name: "Rajesh Kumar",
     position: "Founder, TechSolutions Pvt Ltd",
-    image: "/testimonials/rajesh.jpg",
+    image: "/testimonials/rajesh.webp",
   },
   {
     text: "I was worried about GST compliance, but their team took care of everything. They explained the process clearly and ensured we were fully compliant. Highly recommended!",
     name: "Priya Sharma",
     position: "Director, Fashion Trends LLP",
-    image: "/testimonials/priya.jpg",
+    image: "/testimonials/priya.webp",
   },
   {
     text: "Their trademark registration service was excellent. They guided us through the entire process and helped us protect our brand identity. Very professional service!",
     name: "Amit Patel",
     position: "CEO, Innovate Solutions",
-    image: "/testimonials/amit.jpg",
+    image: "/testimonials/amit.webp",
   },
   {
     text: "The annual compliance service has been a lifesaver for our business. They ensure we never miss any deadlines and handle all the filings professionally.",
     name: "Neha Gupta",
     position: "Managing Director, Global Exports",
-    image: "/testimonials/neha.jpg",
+    image: "/testimonials/neha.webp",
   },
   {
     text: "Their legal documentation service is top-notch. They drafted all our contracts and agreements with great attention to detail, protecting our interests.",
     name: "Vikram Singh",
     position: "Partner, VS Associates",
-    image: "/testimonials/vikram.jpg",
+    image: "/testimonials/vikram.webp",
   },
   {
     text: "We've been using their tax filing services for 3 years now, and they've consistently delivered excellent service. Their team is knowledgeable and responsive.",
     name: "Sunita Reddy",
     position: "CFO, Reddy Enterprises",
-    image: "/testimonials/sunita.jpg",
+    image: "/testimonials/sunita.webp",
   },
 ]
 

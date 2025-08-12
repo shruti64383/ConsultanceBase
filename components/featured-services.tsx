@@ -154,24 +154,24 @@ const featuredServices = [
     title: "Company Registration",
     description: "Register your business as Private Limited, LLP, OPC or Partnership Firm with expert guidance.",
     href: "/business-registration",
-    image: "/services/company-registration.png", // ✅ your image path here
+    image: "/services/company-registration.webp", // ✅ your image path here
   },
   {
     title: "GST Registration",
     description: "Get your business registered for GST and comply with tax regulations seamlessly.",
     href: "/gst-registration",
-    image: "/services/gst-registration.png",
+    image: "/services/gst-registration.webp",
   },
   {
     title: "Trademark Registration",
     description: "Protect your brand identity with trademark registration and secure your business name.",
     href: "/trademark-registration",
-    image: "/services/trademark.png",
+    image: "/services/trademark.webp",
   },
   {
     title: "Legal Documentation",
     description: "Get professionally drafted legal documents tailored to your business needs.",
     href: "/legal-documentation",
-    image: "/services/legal-docs.png",
+    image: "/services/legal-docs.webp",
   },
 ]

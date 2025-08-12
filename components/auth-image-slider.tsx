@@ -17,28 +17,28 @@ export default function AuthImageSlider({ className = "h-full" }: { className?: 
 
   const slides: SlideImage[] = [
     {
-      src: "/images/business-services.jpg?height=1000&width=1000&text=Business Services",
+      src: "/images/business-services.webp?height=1000&width=1000&text=Business Services",
       alt: "Business Services",
       title: "Grow Your Business with Us",
       description:
         "Access all your business services in one place. We provide comprehensive solutions for your business needs.",
     },
     {
-      src: "/images/tax-filing.jpg?height=1000&width=1000&text=Tax Services",
+      src: "/images/tax-filing.webp?height=1000&width=1000&text=Tax Services",
       alt: "Tax Services",
       title: "Hassle-free Tax Compliance",
       description:
         "Stay compliant with all tax regulations and focus on growing your business while we handle your tax filings.",
     },
     {
-      src: "/images/legal-services.jpg?height=1000&width=1000&text=Legal Services",
+      src: "/images/legal-services.webp?height=1000&width=1000&text=Legal Services",
       alt: "Legal Services",
       title: "Expert Legal Assistance",
       description:
         "Get professionally drafted legal documents tailored to your business needs with our expert guidance.",
     },
     {
-      src: "/images/trademark-registration.jpg?height=1000&width=1000&text=Trademark Services",
+      src: "/images/trademark-registration.webp?height=1000&width=1000&text=Trademark Services",
       alt: "Trademark Services",
       title: "Protect Your Brand Identity",
       description: "Secure your business name and logo with our comprehensive trademark registration services.",

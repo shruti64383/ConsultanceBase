@@ -177,7 +177,7 @@ const services = [
       "Complete documentation and filing assistance",
     ],
     href: "/business-registration",
-    image: "/services/business-registration.jpg", // ✅ Add image path
+    image: "/services/business-registration.webp", // ✅ Add image path
   },
   {
     title: "Tax & Compliance Services",
@@ -191,7 +191,7 @@ const services = [
       "ROC Filing and Compliance",
     ],
     href: "/tax-compliance",
-    image: "/services/tax-compliance.jpg",
+    image: "/services/tax-compliance.webp",
   },
   {
     title: "Trademark & Intellectual Property",
@@ -205,6 +205,6 @@ const services = [
       "IP Protection Strategy",
     ],
     href: "/trademark-ip",
-    image: "/services/trademark-ip.jpg",
+    image: "/services/trademark-ip.webp",
   },
 ]

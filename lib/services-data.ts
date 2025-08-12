@@ -8,7 +8,7 @@ export const servicesData = [
     metaTitle: "Business Registration Services in India | Business Services",
     metaDescription:
       "Get hassle-free business registration services with expert guidance. Start your business journey with the right structure. Contact us today.",
-    bannerImage: "/images/business-services.jpg?height=600&width=1200&text=Business Registration",
+    bannerImage: "/images/business-services.webp?height=600&width=1200&text=Business Registration",
     benefits: [
       "Legal Recognition for Your Business",
       "Enhanced Credibility with Customers and Partners",
@@ -31,7 +31,7 @@ export const servicesData = [
     metaTitle: "Private Limited Company Registration Services in India | Business Services",
     metaDescription:
       "Register your Private Limited Company with expert assistance. Get complete documentation and compliance support. Contact us today.",
-    bannerImage: "/Busness/2.jpg?height=600&width=1200&text=Private Limited Company",
+    bannerImage: "/Busness/2.webp?height=600&width=1200&text=Private Limited Company",
     benefits: [
       "Limited Liability Protection",
       "Separate Legal Entity Status",
@@ -54,7 +54,7 @@ export const servicesData = [
     metaTitle: "LLP Registration Services in India | Business Services",
     metaDescription:
       "Register your Limited Liability Partnership with expert guidance. Get complete documentation and compliance support. Contact us today.",
-    bannerImage: "/Busness/1.jpg?height=600&width=1200&text=LLP Registration",
+    bannerImage: "/Busness/1.webp?height=600&width=1200&text=LLP Registration",
     benefits: [
       "Limited Liability Protection",
       "Flexible Management Structure",
@@ -77,7 +77,7 @@ export const servicesData = [
     metaTitle: "One Person Company Registration Services in India | Business Services",
     metaDescription:
       "Register your One Person Company with expert guidance. Get complete documentation and compliance support. Contact us today.",
-    bannerImage: "/Busness/2.jpg?height=600&width=1200&text=OPC Registration",
+    bannerImage: "/Busness/2.webp?height=600&width=1200&text=OPC Registration",
     benefits: [
       "Limited Liability Protection",
       "Separate Legal Entity Status",
@@ -100,7 +100,7 @@ export const servicesData = [
     metaTitle: "Partnership Firm Registration Services in India | Business Services",
     metaDescription:
       "Register your Partnership Firm with expert guidance. Get complete documentation and legal support. Contact us today.",
-    bannerImage: "/Busness/3.jpg?height=600&width=1200&text=Partnership Registration",
+    bannerImage: "/Busness/3.webp?height=600&width=1200&text=Partnership Registration",
     benefits: [
       "Easy Formation Process",
       "Minimal Registration Costs",
@@ -123,7 +123,7 @@ export const servicesData = [
     metaTitle: "Sole Proprietorship Registration Services in India | Business Services",
     metaDescription:
       "Register your Sole Proprietorship with expert guidance. Get complete documentation and legal support. Contact us today.",
-    bannerImage: "/Busness/5.jpg?height=600&width=1200&text=Sole Proprietorship",
+    bannerImage: "/Busness/5.webp?height=600&width=1200&text=Sole Proprietorship",
     benefits: [
       "Simple and Inexpensive Setup",
       "Complete Control Over Business",
@@ -146,7 +146,7 @@ export const servicesData = [
     metaTitle: "MSME Registration Services in India | Business Services",
     metaDescription:
       "Register your business as an MSME with expert guidance. Access government benefits and schemes. Contact us today.",
-    bannerImage: "/Busness/legal-docs.png?height=600&width=1200&text=MSME Registration",
+    bannerImage: "/Busness/legal-docs.webp?height=600&width=1200&text=MSME Registration",
     benefits: [
       "Access to Government Subsidies",
       "Priority Sector Lending",
@@ -169,7 +169,7 @@ export const servicesData = [
     metaTitle: "Startup India Registration Services | Business Services",
     metaDescription:
       "Register your business under Startup India with expert guidance. Access government benefits and schemes for startups. Contact us today.",
-    bannerImage: "/Busness/2.jpg?height=600&width=1200&text=Startup India Registration",
+    bannerImage: "/Busness/2.webp?height=600&width=1200&text=Startup India Registration",
     benefits: [
       "Tax Benefits for 3 Years",
       "Easy Patent Filing",
@@ -192,7 +192,7 @@ export const servicesData = [
     metaTitle: "Section 8 Company Registration Services in India | Business Services",
     metaDescription:
       "Register your non-profit organization as a Section 8 Company with expert guidance. Get complete documentation and legal support. Contact us today.",
-    bannerImage: "/Busness/tax.jpg?height=600&width=1200&text=Section 8 Company",
+    bannerImage: "/Busness/tax.webp?height=600&width=1200&text=Section 8 Company",
     benefits: [
       "Tax Exemptions",
       "Separate Legal Entity Status",
@@ -215,7 +215,7 @@ export const servicesData = [
     metaTitle: "Foreign Company Registration Services in India | Business Services",
     metaDescription:
       "Register your foreign company in India with expert guidance. Get complete documentation and legal support. Contact us today.",
-    bannerImage: "/Busness/company-registration.png?height=600&width=1200&text=Foreign Company Registration",
+    bannerImage: "/Busness/company-registration.webp?height=600&width=1200&text=Foreign Company Registration",
     benefits: [
       "Legal Presence in Indian Market",
       "Access to Growing Indian Economy",
@@ -238,7 +238,7 @@ export const servicesData = [
     metaTitle: "Liaison Office Registration Services in India | Business Services",
     metaDescription:
       "Set up a Liaison Office in India with expert guidance. Get complete documentation and legal support. Contact us today.",
-    bannerImage: "/images/business-services.jpg?height=600&width=1200&text=Liaison Office Registration",
+    bannerImage: "/images/business-services.webp?height=600&width=1200&text=Liaison Office Registration",
     benefits: [
       "Market Research Capabilities",
       "Promotion of Parent Company's Business",
@@ -261,7 +261,7 @@ export const servicesData = [
     metaTitle: "Branch Office Registration Services in India | Business Services",
     metaDescription:
       "Set up a Branch Office in India with expert guidance. Get complete documentation and legal support. Contact us today.",
-    bannerImage: "/images/business-services.jpg?height=600&width=1200&text=Branch Office Registration",
+    bannerImage: "/images/business-services.webp?height=600&width=1200&text=Branch Office Registration",
     benefits: [
       "Ability to Conduct Business Activities",
       "Repatriation of Profits to Parent Company",
@@ -284,7 +284,7 @@ export const servicesData = [
     metaTitle: "Project Office Registration Services in India | Business Services",
     metaDescription:
       "Set up a Project Office in India with expert guidance. Get complete documentation and legal support. Contact us today.",
-    bannerImage: "/Busness/5.jpg?height=600&width=1200&text=Project Office Registration",
+    bannerImage: "/Busness/5.webp?height=600&width=1200&text=Project Office Registration",
     benefits: [
       "Execution of Specific Projects",
       "Temporary Establishment for Project Duration",
@@ -309,7 +309,7 @@ export const servicesData = [
     metaTitle: "Tax & Compliance Services in India | Business Services",
     metaDescription:
       "Get expert tax and compliance services for your business. Stay compliant with all regulations and focus on business growth. Contact us today.",
-    bannerImage: "/Tax/5.jpg?height=600&width=1200&text=Tax & Compliance",
+    bannerImage: "/Tax/5.webp?height=600&width=1200&text=Tax & Compliance",
     benefits: [
       "Timely Compliance with Tax Regulations",
       "Minimized Risk of Penalties",
@@ -332,7 +332,7 @@ export const servicesData = [
     metaTitle: "GST Registration Services in India | Business Services",
     metaDescription:
       "Register for GST with expert guidance. Get your GSTIN quickly and easily with our comprehensive support. Contact us today.",
-    bannerImage: "/images/tax-filing.jpg?height=600&width=1200&text=GST Registration",
+    bannerImage: "/images/tax-filing.webp?height=600&width=1200&text=GST Registration",
     benefits: [
       "Legal Compliance with GST Laws",
       "Ability to Collect and Claim Input Tax Credit",
@@ -355,7 +355,7 @@ export const servicesData = [
     metaTitle: "TAN Registration Services in India | Business Services",
     metaDescription:
       "Get your Tax Deduction Account Number (TAN) with expert guidance. Complete documentation and fast processing. Contact us today.",
-    bannerImage: "/Tax/4 (2).jpg?height=600&width=1200&text=TAN Registration",
+    bannerImage: "/Tax/4 (2).webp?height=600&width=1200&text=TAN Registration",
     benefits: [
       "Legal Compliance for TDS Deduction",
       "Ability to File TDS Returns",
@@ -378,7 +378,7 @@ export const servicesData = [
     metaTitle: "PAN Application Services in India | Business Services",
     metaDescription:
       "Apply for Permanent Account Number (PAN) with expert guidance. Complete documentation and fast processing. Contact us today.",
-    bannerImage: "/Tax/1.jpg?height=600&width=1200&text=PAN Application",
+    bannerImage: "/Tax/1.webp?height=600&width=1200&text=PAN Application",
     benefits: [
       "Essential for All Financial Transactions",
       "Required for Tax Filing",
@@ -401,7 +401,7 @@ export const servicesData = [
     metaTitle: "TDS Return Filing Services in India | Business Services",
     metaDescription:
       "File your TDS returns accurately and on time with expert assistance. Ensure compliance with all TDS regulations. Contact us today.",
-    bannerImage: "/Tax/2.jpg?height=600&width=1200&text=TDS Return Filing",
+    bannerImage: "/Tax/2.webp?height=600&width=1200&text=TDS Return Filing",
     benefits: [
       "Timely Filing to Avoid Penalties",
       "Accurate Reporting of Tax Deductions",
@@ -424,7 +424,7 @@ export const servicesData = [
     metaTitle: "GST Return Filing Services in India | Business Services",
     metaDescription:
       "File your GST returns accurately and on time with expert assistance. Ensure compliance with all GST regulations. Contact us today.",
-    bannerImage: "/Tax/3.jpg?height=600&width=1200&text=GST Return Filing",
+    bannerImage: "/Tax/3.webp?height=600&width=1200&text=GST Return Filing",
     benefits: [
       "Timely Filing to Avoid Penalties",
       "Accurate Input Tax Credit Reconciliation",
@@ -447,7 +447,7 @@ export const servicesData = [
     metaTitle: "Income Tax Return Filing Services in India | Business Services",
     metaDescription:
       "Professional income tax return filing services for individuals and businesses. Get maximum tax benefits with expert guidance. Contact us today.",
-    bannerImage: "/Tax/4 (2).jpg?height=600&width=1200&text=Income Tax Return Filing",
+    bannerImage: "/Tax/4 (2).webp?height=600&width=1200&text=Income Tax Return Filing",
     benefits: [
       "Accurate Tax Filing",
       "Maximum Tax Benefits",
@@ -470,7 +470,7 @@ export const servicesData = [
     metaTitle: "Business ITR Filing Services in India | Business Services",
     metaDescription:
       "Professional income tax return filing services for businesses. Get maximum tax benefits with expert guidance. Contact us today.",
-    bannerImage: "/Tax/5.jpg?height=600&width=1200&text=Business ITR Filing",
+    bannerImage: "/Tax/5.webp?height=600&width=1200&text=Business ITR Filing",
     benefits: [
       "Accurate Business Tax Filing",
       "Maximum Tax Benefits and Deductions",
@@ -493,7 +493,7 @@ export const servicesData = [
     metaTitle: "Individual ITR Filing Services in India | Business Services",
     metaDescription:
       "Professional income tax return filing services for individuals. Get maximum tax benefits with expert guidance. Contact us today.",
-    bannerImage: "/Tax/8 (2).jpg?height=600&width=1200&text=Individual ITR Filing",
+    bannerImage: "/Tax/8 (2).webp?height=600&width=1200&text=Individual ITR Filing",
     benefits: [
       "Accurate Personal Tax Filing",
       "Maximum Tax Deductions and Exemptions",
@@ -516,7 +516,7 @@ export const servicesData = [
     metaTitle: "Annual Compliance Services for Businesses in India | Business Services",
     metaDescription:
       "Comprehensive annual compliance services for businesses. Stay compliant with all regulatory requirements. Contact us today.",
-    bannerImage: "/Tax/9 (2).jpg?height=600&width=1200&text=Annual Compliance",
+    bannerImage: "/Tax/9 (2).webp?height=600&width=1200&text=Annual Compliance",
     benefits: [
       "Timely Compliance with All Regulations",
       "Avoid Penalties and Legal Issues",
@@ -539,7 +539,7 @@ export const servicesData = [
     metaTitle: "ROC Filing Services for Companies in India | Business Services",
     metaDescription:
       "Expert ROC filing services for companies. Stay compliant with all Registrar of Companies requirements. Contact us today.",
-    bannerImage: "/Tax/10 (2).jpg?height=600&width=1200&text=ROC Filing",
+    bannerImage: "/Tax/10 (2).webp?height=600&width=1200&text=ROC Filing",
     benefits: [
       "Timely Filing of Annual Returns",
       "Accurate Financial Statement Submission",
@@ -562,7 +562,7 @@ export const servicesData = [
     metaTitle: "Accounting & Bookkeeping Services in India | Business Services",
     metaDescription:
       "Professional accounting and bookkeeping services for businesses. Maintain accurate financial records with expert assistance. Contact us today.",
-    bannerImage: "/Tax/11.jpg?height=600&width=1200&text=Accounting & Bookkeeping",
+    bannerImage: "/Tax/11.webp?height=600&width=1200&text=Accounting & Bookkeeping",
     benefits: [
       "Accurate Financial Record Keeping",
       "Timely Financial Reporting",
@@ -585,7 +585,7 @@ export const servicesData = [
     metaTitle: "Legal Documentation Services in India | Business Services",
     metaDescription:
       "Professional legal documentation services for businesses. Get legally sound documents drafted by experts. Contact us now.",
-    bannerImage: "/Tax/5.jpg?height=600&width=1200&text=Legal Documentation",
+    bannerImage: "/Tax/5.webp?height=600&width=1200&text=Legal Documentation",
     benefits: [
       "Legally Sound Documents",
       "Customized to Your Needs",
@@ -610,7 +610,7 @@ export const servicesData = [
     metaTitle: "Trademark & IP Services in India | Business Services",
     metaDescription:
       "Protect your brand and intellectual property with our comprehensive trademark and IP services. Get expert guidance for IP protection. Contact us today.",
-    bannerImage: "/trademark/1.jpg?height=600&width=1200&text=Trademark & IP",
+    bannerImage: "/trademark/1.webp?height=600&width=1200&text=Trademark & IP",
     benefits: [
       "Legal Protection for Your Brand",
       "Exclusive Rights to Use Your Brand",
@@ -633,7 +633,7 @@ export const servicesData = [
     metaTitle: "Trademark Registration Services in India | Business Services",
     metaDescription:
       "Protect your brand with our trademark registration services. Get expert guidance for trademark filing and registration. Contact us now.",
-    bannerImage: "/trademark/2.jpg?height=600&width=1200&text=Trademark Registration",
+    bannerImage: "/trademark/2.webp?height=600&width=1200&text=Trademark Registration",
     benefits: [
       "Brand Protection",
       "Legal Rights to Your Brand",
@@ -656,7 +656,7 @@ export const servicesData = [
     metaTitle: "Trademark Renewal Services in India | Business Services",
     metaDescription:
       "Renew your trademark registration with expert guidance. Ensure continuous protection for your brand. Contact us today.",
-    bannerImage: "/trademark/2.jpg?height=600&width=1200&text=Trademark Renewal",
+    bannerImage: "/trademark/2.webp?height=600&width=1200&text=Trademark Renewal",
     benefits: [
       "Continued Brand Protection",
       "Uninterrupted Legal Rights",
@@ -679,7 +679,7 @@ export const servicesData = [
     metaTitle: "Trademark Objection Services in India | Business Services",
     metaDescription:
       "Overcome trademark objections with expert guidance. Get professional assistance for responding to objections. Contact us today.",
-    bannerImage: "/trademark/3.jpg?height=600&width=1200&text=Trademark Objection",
+    bannerImage: "/trademark/3.webp?height=600&width=1200&text=Trademark Objection",
     benefits: [
       "Expert Response to Objections",
       "Higher Success Rate in Registration",
@@ -702,7 +702,7 @@ export const servicesData = [
     metaTitle: "International Trademark Registration Services | Business Services",
     metaDescription:
       "Protect your brand globally with our international trademark registration services. Secure your brand across multiple countries. Contact us today.",
-    bannerImage: "/trademark/4.jpg?height=600&width=1200&text=International Trademark",
+    bannerImage: "/trademark/4.webp?height=600&width=1200&text=International Trademark",
     benefits: [
       "Global Brand Protection",
       "Single Application for Multiple Countries",
@@ -725,7 +725,7 @@ export const servicesData = [
     metaTitle: "Copyright Registration Services in India | Business Services",
     metaDescription:
       "Protect your creative works with our copyright registration services. Get expert guidance for copyright filing and registration. Contact us now.",
-    bannerImage: "/trademark/9.jpg?height=600&width=1200&text=Copyright Registration",
+    bannerImage: "/trademark/9.webp?height=600&width=1200&text=Copyright Registration",
     benefits: [
       "Legal Protection for Creative Works",
       "Exclusive Rights to Reproduce and Distribute",
@@ -748,7 +748,7 @@ export const servicesData = [
     metaTitle: "Software Copyright Registration Services in India | Business Services",
     metaDescription:
       "Protect your software with our copyright registration services. Get expert guidance for software copyright protection. Contact us today.",
-    bannerImage: "/trademark/6.jpg?height=600&width=1200&text=Software Copyright",
+    bannerImage: "/trademark/6.webp?height=600&width=1200&text=Software Copyright",
     benefits: [
       "Legal Protection for Software Code",
       "Prevention of Unauthorized Copying",
@@ -771,7 +771,7 @@ export const servicesData = [
     metaTitle: "Literary Copyright Registration Services in India | Business Services",
     metaDescription:
       "Protect your literary works with our copyright registration services. Get expert guidance for literary copyright protection. Contact us today.",
-    bannerImage: "/trademark/7.jpg?height=600&width=1200&text=Literary Copyright",
+    bannerImage: "/trademark/7.webp?height=600&width=1200&text=Literary Copyright",
     benefits: [
       "Legal Protection for Written Works",
       "Prevention of Unauthorized Reproduction",
@@ -794,7 +794,7 @@ export const servicesData = [
     metaTitle: "Artistic Copyright Registration Services in India | Business Services",
     metaDescription:
       "Protect your artistic works with our copyright registration services. Get expert guidance for artistic copyright protection. Contact us today.",
-    bannerImage: "/trademark/8.jpg?height=600&width=1200&text=Artistic Copyright",
+    bannerImage: "/trademark/8.webp?height=600&width=1200&text=Artistic Copyright",
     benefits: [
       "Legal Protection for Artistic Works",
       "Prevention of Unauthorized Reproduction",
@@ -817,7 +817,7 @@ export const servicesData = [
     metaTitle: "Patent Search Services in India | Business Services",
     metaDescription:
       "Conduct a comprehensive patent search with expert guidance. Determine the patentability of your invention. Contact us today.",
-    bannerImage: "/trademark/9.jpg?height=600&width=1200&text=Patent Search",
+    bannerImage: "/trademark/9.webp?height=600&width=1200&text=Patent Search",
     benefits: [
       "Identification of Similar Patents",
       "Assessment of Patentability",
@@ -840,7 +840,7 @@ export const servicesData = [
     metaTitle: "Patent Registration Services in India | Business Services",
     metaDescription:
       "Protect your invention with our patent registration services. Get expert guidance for patent filing and registration. Contact us today.",
-    bannerImage: "/trademark/10.jpg?height=600&width=1200&text=Patent Registration",
+    bannerImage: "/trademark/10.webp?height=600&width=1200&text=Patent Registration",
     benefits: [
       "Exclusive Rights to Your Invention",
       "Prevention of Unauthorized Use",
@@ -863,7 +863,7 @@ export const servicesData = [
     metaTitle: "Patent Drafting Services in India | Business Services",
     metaDescription:
       "Get professionally drafted patent applications with expert guidance. Maximize protection for your invention. Contact us today.",
-    bannerImage: "/trademark/4.jpg?height=600&width=1200&text=Patent Drafting",
+    bannerImage: "/trademark/4.webp?height=600&width=1200&text=Patent Drafting",
     benefits: [
       "Comprehensive Protection for Your Invention",
       "Technically Accurate Descriptions",
@@ -886,7 +886,7 @@ export const servicesData = [
     metaTitle: "International Patent Registration Services | Business Services",
     metaDescription:
       "Protect your invention globally with our international patent registration services. Secure your innovation across multiple countries. Contact us today.",
-    bannerImage: "/trademark/12.jpg?height=600&width=1200&text=International Patent",
+    bannerImage: "/trademark/12.webp?height=600&width=1200&text=International Patent",
     benefits: [
       "Global Protection for Your Invention",
       "Strategic International Filing",
@@ -911,7 +911,7 @@ export const servicesData = [
     metaTitle: "Business License Services in India | Business Services",
     metaDescription:
       "Get all necessary business licenses and permits with our expert assistance. Ensure full compliance with regulatory requirements. Contact us today.",
-    bannerImage: "/lic/1.jpg?height=600&width=1200&text=Business Licenses",
+    bannerImage: "/lic/1.webp?height=600&width=1200&text=Business Licenses",
     benefits: [
       "Legal Compliance with Regulations",
       "Avoid Penalties and Legal Issues",
@@ -934,7 +934,7 @@ export const servicesData = [
     metaTitle: "Shop & Establishment License Services in India | Business Services",
     metaDescription:
       "Get your Shop & Establishment License with expert guidance. Ensure compliance with labor laws and regulations. Contact us today.",
-    bannerImage: "/lic/1.jpg?height=600&width=1200&text=Shop & Establishment License",
+    bannerImage: "/lic/1.webp?height=600&width=1200&text=Shop & Establishment License",
     benefits: [
       "Legal Compliance with Labor Laws",
       "Regulated Working Conditions",
@@ -957,7 +957,7 @@ export const servicesData = [
     metaTitle: "FSSAI License Services in India | Business Services",
     metaDescription:
       "Get your FSSAI License with expert guidance. Ensure compliance with food safety regulations. Contact us today.",
-    bannerImage: "/lic/3.jpg?height=600&width=1200&text=FSSAI License",
+    bannerImage: "/lic/3.webp?height=600&width=1200&text=FSSAI License",
     benefits: [
       "Legal Compliance with Food Safety Laws",
       "Enhanced Customer Trust",
@@ -980,7 +980,7 @@ export const servicesData = [
     metaTitle: "Trade License Services in India | Business Services",
     metaDescription:
       "Get your Trade License with expert guidance. Ensure compliance with local regulations. Contact us today.",
-    bannerImage: "/lic/4.jpg?height=600&width=1200&text=Trade License",
+    bannerImage: "/lic/4.webp?height=600&width=1200&text=Trade License",
     benefits: [
       "Legal Authorization to Conduct Business",
       "Compliance with Local Regulations",
@@ -1003,7 +1003,7 @@ export const servicesData = [
     metaTitle: "MSME License Services in India | Business Services",
     metaDescription:
       "Get your MSME License with expert guidance. Access government benefits and schemes for MSMEs. Contact us today.",
-    bannerImage: "/lic/5.jpg?height=600&width=1200&text=MSME License",
+    bannerImage: "/lic/5.webp?height=600&width=1200&text=MSME License",
     benefits: [
       "Access to Government Subsidies",
       "Priority Sector Lending",
@@ -1026,7 +1026,7 @@ export const servicesData = [
     metaTitle: "Import Export Code Services in India | Business Services",
     metaDescription:
       "Get your Import Export Code (IEC) with expert guidance. Start your import-export business legally. Contact us today.",
-    bannerImage: "/lic/6.jpg?height=600&width=1200&text=Import Export Code",
+    bannerImage: "/lic/6.webp?height=600&width=1200&text=Import Export Code",
     benefits: [
       "Legal Authorization for Import-Export",
       "Access to Export Incentives",
@@ -1049,7 +1049,7 @@ export const servicesData = [
     metaTitle: "Drug License Services in India | Business Services",
     metaDescription:
       "Get your Drug License with expert guidance. Ensure compliance with pharmaceutical regulations. Contact us today.",
-    bannerImage: "/lic/7.jpg?height=600&width=1200&text=Drug License",
+    bannerImage: "/lic/7.webp?height=600&width=1200&text=Drug License",
     benefits: [
       "Legal Authorization for Pharmaceutical Business",
       "Compliance with Drug Regulations",
@@ -1072,7 +1072,7 @@ export const servicesData = [
     metaTitle: "AYUSH License Services in India | Business Services",
     metaDescription:
       "Get your AYUSH License with expert guidance. Ensure compliance with AYUSH regulations. Contact us today.",
-    bannerImage: "/lic/8.jpg?height=600&width=1200&text=AYUSH License",
+    bannerImage: "/lic/8.webp?height=600&width=1200&text=AYUSH License",
     benefits: [
       "Legal Authorization for AYUSH Business",
       "Compliance with AYUSH Regulations",
@@ -1095,7 +1095,7 @@ export const servicesData = [
     metaTitle: "ESI Registration Services in India | Business Services",
     metaDescription:
       "Register for Employee State Insurance (ESI) with expert guidance. Ensure compliance with ESI regulations. Contact us today.",
-    bannerImage: "/lic/download(1).jpeg?height=600&width=1200&text=ESI Registration",
+    bannerImage: "/lic/download(1).webp?height=600&width=1200&text=ESI Registration",
     benefits: [
       "Compliance with Labor Laws",
       "Medical Benefits for Employees",
@@ -1141,7 +1141,7 @@ export const servicesData = [
     metaTitle: "ISO Certification Services in India | Business Services",
     metaDescription:
       "Get ISO Certification for your business with expert guidance. Enhance your business credibility and process efficiency. Contact us today.",
-    bannerImage: "/lic/iso.png?height=600&width=1200&text=ISO Certification",
+    bannerImage: "/lic/iso.webp?height=600&width=1200&text=ISO Certification",
     benefits: [
       "Enhanced Business Credibility",
       "Improved Process Efficiency",
@@ -1164,7 +1164,7 @@ export const servicesData = [
     metaTitle: "BIS Certification Services in India | Business Services",
     metaDescription:
       "Get BIS Certification for your products with expert guidance. Ensure compliance with Indian quality standards. Contact us today.",
-    bannerImage: "/lic/bsic.png?height=600&width=1200&text=BIS Certification",
+    bannerImage: "/lic/bsic.webp?height=600&width=1200&text=BIS Certification",
     benefits: [
       "Compliance with Indian Quality Standards",
       "Enhanced Product Credibility",
@@ -1187,7 +1187,7 @@ export const servicesData = [
     metaTitle: "Udyam Registration Services in India | Business Services",
     metaDescription:
       "Register your business under Udyam Registration with expert guidance. Access government benefits for MSMEs. Contact us today.",
-    bannerImage: "/lic/4.jpg?height=600&width=1200&text=Udyam Registration",
+    bannerImage: "/lic/4.webp?height=600&width=1200&text=Udyam Registration",
     benefits: [
       "Access to Government Subsidies",
       "Priority Sector Lending",
@@ -1212,7 +1212,7 @@ export const servicesData = [
     metaTitle: "Legal Services for Businesses in India | Business Services",
     metaDescription:
       "Get comprehensive legal services for your business needs. Our legal experts provide professional assistance for all legal matters. Contact us today.",
-    bannerImage: "/legal/1.jpg?height=600&width=1200&text=Legal Services",
+    bannerImage: "/legal/1.webp?height=600&width=1200&text=Legal Services",
     benefits: [
       "Expert Legal Guidance",
       "Protection of Business Interests",
@@ -1235,7 +1235,7 @@ export const servicesData = [
     metaTitle: "Non-Disclosure Agreement Services in India | Business Services",
     metaDescription:
       "Get professionally drafted Non-Disclosure Agreements for your business. Protect your confidential information with legally sound NDAs. Contact us today.",
-    bannerImage: "/legal/Nda.jpg?height=600&width=1200&text=Non-Disclosure Agreement",
+    bannerImage: "/legal/Nda.webp?height=600&width=1200&text=Non-Disclosure Agreement",
     benefits: [
       "Protection of Confidential Information",
       "Clear Definition of Confidential Material",
@@ -1258,7 +1258,7 @@ export const servicesData = [
     metaTitle: "Employment Agreement Services in India | Business Services",
     metaDescription:
       "Get professionally drafted Employment Agreements for your business. Establish clear employment terms and conditions. Contact us today.",
-    bannerImage: "/legal/3.jpg?height=600&width=1200&text=Employment Agreement",
+    bannerImage: "/legal/3.webp?height=600&width=1200&text=Employment Agreement",
     benefits: [
       "Clear Employment Terms and Conditions",
       "Protection of Business Interests",
@@ -1281,7 +1281,7 @@ export const servicesData = [
     metaTitle: "Partnership Deed Services in India | Business Services",
     metaDescription:
       "Get a professionally drafted Partnership Deed for your business. Establish clear partnership terms and conditions. Contact us today.",
-    bannerImage: "/legal/4.jpg?height=600&width=1200&text=Partnership Deed",
+    bannerImage: "/legal/4.webp?height=600&width=1200&text=Partnership Deed",
     benefits: [
       "Clear Partnership Terms and Conditions",
       "Defined Profit Sharing Ratio",
@@ -1304,7 +1304,7 @@ export const servicesData = [
     metaTitle: "LLP Agreement Services in India | Business Services",
     metaDescription:
       "Get a professionally drafted LLP Agreement for your business. Establish clear LLP terms and conditions. Contact us today.",
-    bannerImage: "/legal/5.jpg?height=600&width=1200&text=LLP Agreement",
+    bannerImage: "/legal/5.webp?height=600&width=1200&text=LLP Agreement",
     benefits: [
       "Clear LLP Terms and Conditions",
       "Defined Profit Sharing Ratio",
@@ -1327,7 +1327,7 @@ export const servicesData = [
     metaTitle: "Legal Notice Services in India | Business Services",
     metaDescription:
       "Get a professionally drafted Legal Notice for your business. Address disputes and legal issues formally. Contact us today.",
-    bannerImage: "/legal/6.jpg?height=600&width=1200&text=Legal Notice",
+    bannerImage: "/legal/6.webp?height=600&width=1200&text=Legal Notice",
     benefits: [
       "Formal Communication of Legal Issues",
       "First Step in Dispute Resolution",

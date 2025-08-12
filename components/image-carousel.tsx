@@ -15,9 +15,11 @@ export default function ImageCarousel() {
   const isInView = useInView(containerRef, { once: false, amount: 0.3 })
   const router = useRouter()
 
+const [isLoading, setIsLoading] = useState(true);
+
   const carouselImages = [
   {
-    src: "/images/business-services.jpg",
+    src: "/images/business-services.webp",
     alt: "Business Services",
     title: "Comprehensive Business Solutions",
     description: "One-stop solution for all your business registration and compliance needs",
@@ -26,7 +28,7 @@ export default function ImageCarousel() {
     
   },
   {
-    src: "/images/tax-filing.jpg",
+    src: "/images/tax-filing.webp",
     alt: "Tax Filing",
     title: "Hassle-free Tax Filing",
     description: "Expert assistance for GST, Income Tax, and TDS filing",
@@ -34,7 +36,7 @@ export default function ImageCarousel() {
     loading:"eager",
   },
   {
-    src: "/images/legal-services.jpg",
+    src: "/images/legal-services.webp",
     alt: "Legal Services",
     title: "Professional Legal Services",
     description: "Legal documentation and compliance services for your business",
@@ -42,7 +44,7 @@ export default function ImageCarousel() {
     loading: "eager",
   },
   {
-    src: "/images/trademark-registration.jpg",
+    src: "/images/trademark-registration.webp",
     alt: "Trademark Registration",
     title: "Protect Your Brand Identity",
     description: "Secure your business name and logo with trademark registration",
@@ -50,44 +52,64 @@ export default function ImageCarousel() {
     loading:"eager",
   },
 ]
+ const nextSlide = () => {
+  if (isAnimating) return;
+  setIsAnimating(true);
+  setIsLoading(true); // Add loading state
+  setCurrentIndex((prevIndex) => (prevIndex === carouselImages.length - 1 ? 0 : prevIndex + 1));
+  
+  // Set a short delay for the animation and loading state
+  setTimeout(() => {
+    setIsAnimating(false);
+    setIsLoading(false);
+  }, 500);
+}
 
+const prevSlide = () => {
+  if (isAnimating) return;
+  setIsAnimating(true);
+  setIsLoading(true); // Add loading state
+  setCurrentIndex((prevIndex) => (prevIndex === 0 ? carouselImages.length - 1 : prevIndex - 1));
+  
+  setTimeout(() => {
+    setIsAnimating(false);
+    setIsLoading(false);
+  }, 500);
+}
 
-  const nextSlide = () => {
-    if (isAnimating) return
-    setIsAnimating(true)
-    setCurrentIndex((prevIndex) => (prevIndex === carouselImages.length - 1 ? 0 : prevIndex + 1))
-    setTimeout(() => setIsAnimating(false), 500)
-  }
-
-  const prevSlide = () => {
-    if (isAnimating) return
-    setIsAnimating(true)
-    setCurrentIndex((prevIndex) => (prevIndex === 0 ? carouselImages.length - 1 : prevIndex - 1))
-    setTimeout(() => setIsAnimating(false), 500)
-  }
-
-  useEffect(() => {
+// Auto-scroll effect
+useEffect(() => {
   const interval = setInterval(() => {
-    nextSlide()
-  }, 3000)
+    nextSlide();
+  }, 5000); // Change slide every 5 seconds
 
-  return () => clearInterval(interval)
-}, []) // ✅ Restart timer on slide change
+  return () => clearInterval(interval);
+}, [currentIndex]); // Restart timer when currentIndex changes
 
-  // useEffect(() => {
-  //   const interval = setInterval(() => {
-  //     nextSlide()
-  //   }, 3000) // Changed to 2 seconds
+const scrollToImage = (index: number) => {
+  if (isAnimating) return;
+  setIsAnimating(true);
+  setIsLoading(true); // Add loading state
+  setCurrentIndex(index);
+  
+  setTimeout(() => {
+    setIsAnimating(false);
+    setIsLoading(false);
+  }, 500);
+}
 
-  //   return () => clearInterval(interval)
-  // }, [ ])
-
-  const scrollToImage = (index: number) => {
-    if (isAnimating) return
-    setIsAnimating(true)
-    setCurrentIndex(index)
-    setTimeout(() => setIsAnimating(false), 500)
+// Preload images
+useEffect(() => {
+  const preloadImages = () => {
+    carouselImages.forEach(image => {
+      const img = new window.Image();
+      img.src = image.src;
+    });
+    setIsLoading(false);
   }
+  
+  preloadImages();
+}, [carouselImages]);
 
   return (
     <div
